@@ -8,7 +8,8 @@ Authors@R:
            email = "917975354@qq.com")
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier..
-License: `use_mit_license()`,`use_gpl3_license()` or firends to pick a license
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
